@@ -12,11 +12,10 @@ print(x.find("bent"))
 
 #print("Hello "+y)
 
-lst = ["Alex","Ben","Chris","Donald","Ellis"]
+lst = ["Alex","Ben","Chris","Donald","Ellis","Freddy","Garry"]
 lst.append(23)
 lst.insert(3,"Donald")
 print(lst)
-
 print(lst.pop(2))
 
 print(lst)
