@@ -12,7 +12,7 @@ print(x.find("bent"))
 
 #print("Hello "+y)
 
-lst = ["Alex","Ben","Chris"]
+lst = ["Alex","Ben","Chris","Donald","Ellis"]
 lst.append(23)
 lst.insert(3,"Donald")
 print(lst)
